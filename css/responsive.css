@@ -2,9 +2,10 @@
 @media only screen and (max-width: 688px) {
    /* tea house section  */
    .tea-house-text h1 {
-   font-size: 48px !important;
+    font-size: 48px !important;
     line-height: 55px !important;
     margin-top: 30.28px !important;
+    width: 360px !important;
    }
    .tea-house-text p br {
       display: none !important;
