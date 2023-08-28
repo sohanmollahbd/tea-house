@@ -1,0 +1,29 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
+body {
+   font-family: 'Manrope', sans-serif;
+}
+
+/* common styles  */
+
+
+
+/* tea-house section  */
+.tea-house-btn {
+   border-radius: 10px;
+   background: linear-gradient(270deg, #F00 0%, #FF8938 100%);
+   font-family: Manrope;
+   font-size: 20px ;
+   padding: 18px 19px;
+   border: none;
+}
+
+.tea-house-img img {
+   margin-top: 129.69px;
+}
+
+.d-flex.align-items-center.position-absolute {
+   top: 523px;
+   right: 435px;
+}

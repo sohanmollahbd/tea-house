@@ -1,0 +1,33 @@
+/* mobile devices */
+@media only screen and (max-width: 688px) {
+   /* tea house section  */
+   .tea-house-text h1 {
+   font-size: 48px !important;
+    line-height: 55px !important;
+    margin-top: 30.28px !important;
+   }
+   .tea-house-text p br {
+      display: none !important;
+   }
+   .tea-house-btn {
+      padding: 10px 15px !important;
+      font-size: 16px !important;
+   }
+
+   .tea-house-img img {
+      margin-top: 35.69px !important;
+   }
+
+   .d-flex.align-items-center.position-absolute {
+      top: 585px !important;
+      right: 96px !important;
+  }
+  /* products section  */
+  .products-section h1 {
+      margin-top: 71px !important;
+      font-size: 29px !important;
+   }
+   .products-section .card {
+      width: 350px !important;
+   }
+}
