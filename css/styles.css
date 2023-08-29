@@ -27,3 +27,17 @@ body {
    top: 523px;
    right: 435px;
 }
+
+
+/* fresh tea section */
+.fresh-tea {
+   margin-left: 112px;
+}
+.fresh-tea-img img {
+   padding: 43.28px 57px;
+   background: rgba(87, 118, 57, 0.10);
+   height: 355.279px;
+   width: 238px;
+}
+
+

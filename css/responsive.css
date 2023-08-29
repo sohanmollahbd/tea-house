@@ -31,4 +31,29 @@
    .products-section .card {
       width: 350px !important;
    }
+
+   /* fresh-tea section  */
+   .fresh-tea {
+      margin-top: 0 !important;
+   }
+   .fresh-tea {
+      flex-direction: column !important;
+      margin-left: 5px !important;
+   }
+   .fresh-tea .ms-5 {
+      margin-left: 0 !important;
+   }
+   .th-gradient-div {
+      width: 160px !important;
+      height: 78px !important;
+   }
+   .fresh-tea-img img {
+      padding: 43.28px 57px;
+      background: rgba(87, 118, 57, 0.10);
+      height: 185.279px;
+      width: 160px;
+   }
+   .fresh-tea-text h1 {
+      font-size: 36px !important;
+   }
 }
