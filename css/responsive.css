@@ -22,7 +22,7 @@
    .d-flex.align-items-center.position-absolute {
       top: 585px !important;
       right: 96px !important;
-  }
+   }
   /* products section  */
   .products-section h1 {
       margin-top: 71px !important;
@@ -56,4 +56,64 @@
    .fresh-tea-text h1 {
       font-size: 36px !important;
    }
+
+
+   /* clients */
+   #clients {
+      flex-direction: column;
+   }
+   .comments {
+      margin-left: -129px;
+
+   }
+   .clients-text.pt-5 {
+      padding-top: 0 !important;
+   }
+   .clients-text.mt-5 {
+      margin-top: 0 !important;
+   }
+
+   .clients-comments {
+      margin-left: 122px;
+      margin-top: 59px;
+   }
+   .comments .comments-3 {
+      left: 8px;
+      top: 639px;
+   }
+  .clients-comments img {
+      border-radius: 60px;
+      width: 40px;
+      height: 40px;
+      top: 8px;
+      left: 10px;
+   }
+  .clients-comments br {
+      display: none ;
+   }
+
+   .clients-btn {
+      background: linear-gradient(to right, #F00, #FF8938); /* Gradient background */
+      border: none;
+      color: transparent; /* Make text transparent */
+      -webkit-background-clip: text; /* Clip text to background */
+      background-clip: text;
+      cursor: pointer;
+      outline: none;
+      font-family: Manrope;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 27px;
+   
+    }
+   
+    .button-container {
+      background-color: white;
+      display: inline-block;
+      padding: 5px 15px; /* Add padding around the button */
+      border-radius: 8px;
+      border: none;
+   }
+    
+
 }

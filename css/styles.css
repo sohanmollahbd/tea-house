@@ -7,6 +7,29 @@ body {
 
 /* common styles  */
 
+ .clients-btn {
+   background: linear-gradient(to right, #F00, #FF8938); /* Gradient background */
+   border: none;
+   color: transparent; /* Make text transparent */
+   -webkit-background-clip: text; /* Clip text to background */
+   background-clip: text;
+   cursor: pointer;
+   outline: none;
+   font-family: Manrope;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 27px;
+
+ }
+
+ .button-container {
+   background-color: white;
+   display: inline-block;
+   padding: 14px 28px 15px 28px; /* Add padding around the button */
+   border-radius: 8px;
+   border: none;
+}
+ 
 
 
 /* tea-house section  */
@@ -34,10 +57,33 @@ body {
    margin-left: 112px;
 }
 .fresh-tea-img img {
-   padding: 43.28px 57px;
+   padding: 43.28px 57px !important;
    background: rgba(87, 118, 57, 0.10);
    height: 355.279px;
    width: 238px;
 }
 
+
+/* clients section  */
+
+#clients {
+   margin-top: 130px;
+}
+.clients-comments img {
+   border-radius: 60px;
+   width: 60px;
+   height: 60px;
+   top: -19px;
+   left: -16px;
+}
+
+.clients-comments {
+   margin-left: 295px;
+   margin-top: 120px;
+}
+
+.comments .comments-3 {
+   left: -122px;
+   top: 132px;
+}
 
