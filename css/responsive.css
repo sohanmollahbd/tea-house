@@ -66,6 +66,9 @@
       margin-left: -129px;
 
    }
+   .clients-text p br {
+      display: none;
+   }
    .clients-text.pt-5 {
       padding-top: 0 !important;
    }
@@ -115,5 +118,27 @@
       border: none;
    }
     
+   .clients-comments .opacity-25 {
+      opacity: .75 !important;
+   }
+
+   /* blog-section  */
+   .blog-section h3 {
+      margin-top: 190px;
+      font-size: 23px !important;
+   }
+   .blog-section p {
+      font-size: 16px !important;
+   }
+   .blog-section p br {
+      display: none;
+   }
+   .blog-section p.pb-4 {
+      padding-bottom: 0 !important;
+   }
+   .row {
+      margin-left: 0 !important;
+   }
+
 
 }
