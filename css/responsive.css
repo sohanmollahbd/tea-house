@@ -75,6 +75,9 @@
    .clients-text.mt-5 {
       margin-top: 0 !important;
    }
+   .clients-text.ms-5 {
+      margin-left: 0 !important;
+   }
 
    .clients-comments {
       margin-left: 122px;
